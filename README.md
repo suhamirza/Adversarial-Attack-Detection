@@ -3,4 +3,5 @@ A real-time detection system designed to identify adversarial attacks targeting 
 
 ## Features
 Neural Network Training: A simple yet effective neural network trained on the MNIST dataset.
+
 Real-Time Detection System: A mechanism to detect adversarial inputs in real time, enhancing the model’s cybersecurity.
